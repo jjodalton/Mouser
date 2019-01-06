@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Mouser Mk III">
+</Property><Property Name="Solution File" Value="C:\Users\Black Wolf\Documents\My Dropbox\Projects\Mouser Mk III\Mouser Mk III.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Black Wolf\Documents\My Dropbox\Projects\Mouser Mk III\Mouser Mk III.suo">
+</Property><Property Name="Date" Value="03 September 2011">
+</Property><Property Name="Time" Value="18:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Mouser Mk III.sln" Description="File successfully backed up as C:\Users\Black Wolf\Documents\My Dropbox\Projects\Mouser Mk III\Mouser Mk III.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Mouser Mk III.suo" Description="File successfully backed up as C:\Users\Black Wolf\Documents\My Dropbox\Projects\Mouser Mk III\Mouser Mk III.suo.old">
+</Event><Event ErrorLevel="0" Project="Mouser Mk III" Source="Mouser Mk III\Mouser Mk III.vcproj" Description="Converting project file 'C:\Users\Black Wolf\Documents\My Dropbox\Projects\Mouser Mk III\Mouser Mk III\Mouser Mk III.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Mouser Mk III" Source="Mouser Mk III\Mouser Mk III.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Mouser Mk III" Source="Mouser Mk III\Mouser Mk III.vcproj" Description="Done converting to new project file 'C:\Users\Black Wolf\Documents\My Dropbox\Projects\Mouser Mk III\Mouser Mk III\Mouser Mk III.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Mouser Mk III" Source="Mouser Mk III\Mouser Mk III.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Mouser Mk III.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Mouser Mk III.sln" Description="Converted">
+</Event></UpgradeLog>

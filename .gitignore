@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# MS VS C++ Project
+*.aps
+*.exe
+*.idb
+*.ipch
+*.lastbuildstate
+*.lib
+*.log
+*.manifest
+*.obj
+*.pch
+*.pdb
+*.res
+*.sdf
+*.suo
+*.tlog
+*.user
+*.dep
+*.htm
